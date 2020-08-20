@@ -1,2 +1,3 @@
 started working on feature1
 feature1 completed
+some problem in feature 1 was fixed
